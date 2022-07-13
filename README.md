@@ -3,7 +3,7 @@
 # Util Scripts
 ## Saving time by spending time
 ### supercommit.sh
-- Stages all modified files in submodules inside a repo then stages changes to the main repo 
+- Stages all new files and modifications in submodules and repo 
 - Asks for user input whether to push the new commits
 - Pushes all commits in submodules and then pushes commits in main repo
 
