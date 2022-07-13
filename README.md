@@ -1,4 +1,5 @@
 <img align="right" src="https://user-images.githubusercontent.com/57238401/178754680-49abe4ef-c94a-43ad-8627-f8d515634c6c.jpg" alt="gru" width="500"/>
+
 # Util Scripts
 ## Saving time by spending time
 ### supercommit.sh
